@@ -3,8 +3,8 @@ Assignments and Term Projects : High Performance Parallel Programming, Autumn-20
 
 To Run:
 
-Compile using gcc:
+1.Compile using gcc:
 $ gcc ./src/simulation.c -lm -fopenmp
 
-Execute as:
+2.Execute as:
 ./a.out or .\a.exe
